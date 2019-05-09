@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557391918831.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9B47EC88",
+    "lastKnownWriteTime" : 1557399306,
+    "last_content_update" : 1557399306256,
+    "path" : "~/UbiqumCodeAcademy/projects/fun_with_flags/scripts/norway_flag_granularityReduction.R",
+    "project_path" : "scripts/norway_flag_granularityReduction.R",
+    "properties" : {
+        "cursorPosition" : "81,0",
+        "scrollLine" : "45",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
